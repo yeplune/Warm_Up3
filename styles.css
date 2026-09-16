@@ -1,0 +1,27 @@
+html {
+    background-color:lightblue;
+    font-family: "Alfa Slab One", serif;
+}
+.site-name{
+
+    background-color:green;
+    color:violet;
+    font-family: "urca", sans-serif;
+    text-align:center;
+    font-weight:300;
+    line-height: 1;
+    font-size: 60px;
+}
+
+.section-name{
+    color:tomato;
+}
+
+.Address{
+    color:blue;
+    text-align:right;
+}
+
+.Weird{
+    color:orange;
+}
